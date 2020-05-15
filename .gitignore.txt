@@ -1,1 +1,1 @@
-config.txt.txt
+config.txt
