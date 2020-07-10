@@ -1,0 +1,52 @@
+1.  what is cloud?
+ans:"The cloud" refers to servers that are accessed over the Internet, and the software and databases that run on those servers. Cloud servers are located in data centers all over the world. By using cloud computing, users and companies don't have to manage physical servers themselves or run software applications on their own machines.
+	The cloud enables users to access the same files and applications from almost any device, because the computing and storage takes place on servers in a data center, instead of locally on the user device. This is why a user can log into their Instagram account on a new phone after their old phone breaks and still find their old account in place, with all their photos, videos, and conversation history. It works the same way with cloud email providers like Gmail or Microsoft Office 365, and with cloud storage providers like Dropbox or Google Drive.
+
+	For businesses, switching to cloud computing removes some IT costs and overhead: for instance, they no longer need to update and maintain their own servers, as the cloud vendor they are using will do that. This especially makes an impact for small businesses that may not have been able to afford their own internal infrastructure but can outsource their infrastructure needs affordably via the cloud. The cloud can also make it easier for companies to operate internationally, because employees and customers can access the same files and applications from any location.
+
+ 2.  Different types of cloud?
+
+Ans. There are three main categories of cloud hosting: public, private, and hybrid.
+
+1)The Public Cloud
+Public cloud solutions are readily available from Google, Amazon, Microsoft, and others. Public cloud services provide infrastructure and services to the public, and you, or your organization, secure a piece of that infrastructure and network. Resources are shared by hundreds or thousands of people. Gmail and U of I Box are examples of public cloud services. Google reported in April 2017 that it had 1 billion monthly users. While your email account is protected by a password, the hardware on which it is stored is shared by over 1 billion people.
+e.g.:Cloud vendors like Amazon web services, microsoft Azure and Google cloud
+
+2)The Private Cloud
+Private cloud solutions are dedicated to one organization or business, and often have much more specific security controls than a public cloud. Many medical offices, banking institutions, and other organizations who are required to meet federal and state guidelines for data controls use a private cloud. Using private cloud storage allows them to control highly sensitive data by meeting regulations and industry-based criteria, whether that be medical records, trade secrets, or other classified information. Private cloud solutions utilize infrastructure that is either owned and controlled by the organization, or they are able to contractually require those specific criteria be met by a vendor who manages the infrastructure.
+e.g.:US govern ment bought private cloud by amazon
+
+3)The Hybrid Cloud
+Hybrid cloud solutions are a blend of public and private clouds. This is a more complex cloud solution in that the organization must manage multiple platforms and determine where data is stored. An example of a hybrid cloud solution is an organization that wants to keep confidential information secured on their private cloud, but make more general, customer-facing content on a public cloud.
+e.g:AWS,Microsoft Azure 
+
+ 3.  Advantages and disadvantages of cloud?
+
+Ans. Advantages -   1)Easy implementation.
+                    2)Access your data anywhere, anytime.
+		    3)No hardware required.
+                    4)cost per head.
+                    5)Flexibility for growth.
+                    6)Efficient recovery.
+
+     Disadvantage - 1)No longer in control.
+                    2)May not get all the features.
+                    3)Doesn't mean you should do away with servers.
+                    4)Bandwidth issues.
+ 
+ 4.  What is EC-2?
+
+Ans. Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity in
+     the Amazon Web Services (AWS) cloud. Using Amazon EC2 eliminates your need to invest in hardware up front,
+     so you can develop and deploy applications faster. You can use Amazon EC2 to launch as many or as few
+     virtual servers as you need, configure security and networking, and manage storage. Amazon EC2 enables
+     you to scale up or down to handle changes in requirements or spikes in popularity, reducing your need to forecast traffic.
+   
+    Advangates of EC-2 : 1)On demand service
+                         2)Access your data anywhere, anytime.
+                         3)Internet speed almost upto 100 gegabyte. 
+                         4)Electricity and maitenance free.
+                         5)security.
+
+
+© 2020 GitHub
